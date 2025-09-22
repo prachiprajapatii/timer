@@ -24,7 +24,7 @@ CSS3 – Styling and layout
 
 JavaScript (ES6) – Timer functionality
 
-📸 Screenshot (Optional)
+📸 Screenshot
 
 <img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/8491d90e-dcb4-4658-9f7a-dc98b7114d1d" />
 
